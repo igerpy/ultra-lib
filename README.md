@@ -1,22 +1,22 @@
-# ultra-lib
+# Ultra Lib
 
-Ultra-lib is a micro library designed to provide simple utilities for various tasks.
+Ultra Lib is a micro-library designed for lightweight applications and quick integrations.
 
 ## Features
-- Lightweight with minimal dependencies.
-- Easy to integrate into your projects.
+- Lightweight and efficient
+- Easy to integrate into existing projects
+- Well-documented
 
-## Technologies Used
+## Tech Stack
 - JavaScript
 
 ## Usage
-Import the library into your project and use the provided utilities as needed.
+To use Ultra Lib in your project, install it via npm:
+```bash
+npm install ultra-lib
+```
 
 ## Future Plans
-- Expand the library with more utilities and features.
-- Improve documentation and examples.
-
-## Acknowledgements
-- Thanks to all contributors who have helped improve this project.
-- Inspired by similar open source projects.
-- Built with love and coffee ☕
+- Expand library functions
+- Improve documentation
+- Add examples for common use cases
